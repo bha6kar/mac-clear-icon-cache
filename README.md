@@ -1,0 +1,1 @@
+# mac-clear-icon-cache
